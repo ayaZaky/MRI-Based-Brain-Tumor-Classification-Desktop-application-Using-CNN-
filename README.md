@@ -1,5 +1,4 @@
-# Image-Processing-Filters-and-MRI-Based-Brain-Tumor-Classification-Full-GUI-app-in-Python-
-
+MRI-Based-Brain-Tumor-Classification Desktop application Using CNN and computer vision techniques
 ![0](https://user-images.githubusercontent.com/74102314/226181163-d88015e4-9b3f-4782-9a63-b82b616679b2.PNG)
 ![1](https://user-images.githubusercontent.com/74102314/226181172-b633782c-ecfc-469e-98be-c2560b165498.png)
 ![Capture](https://user-images.githubusercontent.com/74102314/226181206-ca28cee4-0516-4af2-98bb-2d3e1c6103b6.PNG)
